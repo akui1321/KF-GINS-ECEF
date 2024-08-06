@@ -1,4 +1,4 @@
-# GINS-ECEF
+# KF-GINS-ECEF
 
 [[中]](./readme_zh.md) &ensp; [[EN]](./readme.md)
 
